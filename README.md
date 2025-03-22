@@ -29,6 +29,9 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Loom
 CodePath WEB102 Prework - 21 March 2025 - Watch Video
+
+<div style="position: relative; padding-bottom: 63.829787234042556%; height: 0;"><iframe src="https://www.loom.com/embed/d5be4e0cc16c406d94db0764c76b1053?sid=40573ebe-8854-4f15-a0dc-f1e92c38f3e0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
